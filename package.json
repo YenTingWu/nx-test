@@ -5,6 +5,7 @@
   "scripts": {},
   "private": true,
   "dependencies": {
+    "next": "14.0.4",
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "tslib": "^2.3.0"
@@ -16,6 +17,7 @@
     "@nx/eslint-plugin": "17.3.2",
     "@nx/jest": "17.3.2",
     "@nx/js": "17.3.2",
+    "@nx/next": "17.3.2",
     "@nx/react": "17.3.2",
     "@nx/web": "17.3.2",
     "@nx/webpack": "17.3.2",
@@ -35,6 +37,7 @@
     "@typescript-eslint/parser": "^6.13.2",
     "babel-jest": "^29.4.1",
     "eslint": "~8.48.0",
+    "eslint-config-next": "14.0.4",
     "eslint-config-prettier": "^9.0.0",
     "eslint-plugin-import": "2.27.5",
     "eslint-plugin-jsx-a11y": "6.7.1",
